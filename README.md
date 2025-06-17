@@ -14,7 +14,7 @@
 📍 Región: [Tu Ciudad o País]  
 🧁 Compañero Pokémon: Sylveon  
 🎮 PC Box: Git · SweetAlert2  
-
+```
 
 
 
