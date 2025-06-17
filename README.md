@@ -61,21 +61,9 @@
 
 </div>
 
-## 📊 Estadísticas de GitHub
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bolillochaan&show_icons=true&theme=default&bg_color=ffffff&border_color=b4a7d6&title_color=d5a6bd&text_color=333333&icon_color=b4a7d6"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolillochaan&layout=compact&theme=default&bg_color=ffffff&border_color=b4a7d6&title_color=d5a6bd&text_color=333333"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=bolillochaan&theme=default&background=ffffff&border=b4a7d6&stroke=d5a6bd&currStreakLabel=b4a7d6&ring=d5a6bd&fire=b4a7d6&sideLabels=333333&sideNums=666666&dates=666666)](https://git.io/streak-stats)
-
-</div>
+## 💖 Mis Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=rose_pine&title_color=d5a6bd&icon_color=f4cccc&text_color=ffcad4&bg_color=ffffff" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=rose_pine&title_color=d5a6bd&text_color=ffcad4&bg_color=ffffff" /> </p>
 
 
 ## ✨ En lo que estoy trabajando
