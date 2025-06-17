@@ -83,20 +83,12 @@ const developer = {
 </div>
 
 
-## 🎯 En lo que estoy trabajando
+## ✨ En lo que estoy trabajando
 
 - 🔭 **Proyecto actual:** Don-Keys - Una aplicación web para estudiantes que buscan donde rentar
 - 🌱 **Aprendiendo:** Redes Neuronales
-- 👯 **Colaboración:** Buscando colaborar en proyectos open source
 - ⚡ **Dato curioso:** Mi mayor hobbie es el baile
 
-## 🏆 Logros
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bolillochaan&theme=flat&column=7&margin-w=15&margin-h=15&color=b4a7d6&border_color=d5a6bd&bg_color=ffffff)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ## 📈 Actividad Reciente
 
