@@ -124,6 +124,7 @@ const developer = {
 </div>
 
 <div align="center">
+  
 ![Footer Custom](https://capsule-render.vercel.app/api?type=waving&color=0:b4a7d6,50:d5a6bd,100:b4a7d6&height=120&section=footer)
 
 </div>
