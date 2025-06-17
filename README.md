@@ -89,15 +89,16 @@ const developer = {
 - 🌱 **Aprendiendo:** Redes Neuronales
 - ⚡ **Dato curioso:** Mi mayor hobbie es el baile
 
-
 ## 🎨 Proyectos Destacados
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bolillochaan&repo=nombre-repo-1&theme=default&bg_color=ffffff&border_color=b4a7d6&title_color=d5a6bd&text_color=333333)](https://github.com/bolillochaan/Machine-Learning)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bolillochaan&repo=nombre-repo-2&theme=default&bg_color=ffffff&border_color=b4a7d6&title_color=d5a6bd&text_color=333333)](https://github.com/Santiago-Soria/donkeys-platform)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bolillochaan&repo=Machine-Learning&theme=default&bg_color=ffffff&border_color=b4a7d6&title_color=d5a6bd&text_color=333333)](https://github.com/bolillochaan/Machine-Learning)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Santiago-Soria&repo=donkeys-platform&theme=default&bg_color=ffffff&border_color=b4a7d6&title_color=d5a6bd&text_color=333333)](https://github.com/Santiago-Soria/donkeys-platform)
 
 </div>
+
 
 
 
