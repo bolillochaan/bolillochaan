@@ -105,8 +105,10 @@
 </div>
 
 <p align="center">
+  
 ![Sylveon wink](https://media.tenor.com/images/…/sylveon-wink.gif)
-</p> <p align="center"> 💖 Gracias por visitar mi perfil ~ ¡Que la ternura y el código te acompañen! 💖 </p> ```
+
+</p> <p align="center"> 💖 Gracias por visitar mi perfil ~ ¡Que la ternura y el código te acompañen! 💖 </p> 
 
 <div align="center">
   
