@@ -14,7 +14,7 @@ const developer = {
     name: "Ivonne Mendez Cruz",
     college: "ESCOM, IPN",
     location: "CDMX",
-    passions: ["Coding", "Music", "Gaming", "Coffee"],
+    passions: ["Coding", "Music", "Gaming", "Dance"],
     currentFocus: "Aprendiendo redes neuronales ",
     funFact: "El diseño UX y la IA son mis pasiones 🎵"
 };
@@ -22,7 +22,7 @@ const developer = {
 
 
 
-## 💼 Conéctate conmigo
+
 
 <div align="center">
 
@@ -59,7 +59,7 @@ const developer = {
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&color=8B5CF6)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&color=A855F7)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&color=9333EA)
+
 
 </div>
 
@@ -81,13 +81,10 @@ const developer = {
 
 ## 🎯 En lo que estoy trabajando
 
-- 🔭 **Proyecto actual:** [Nombre del proyecto] - Una aplicación web para...
-- 🌱 **Aprendiendo:** Next.js, TypeScript, y DevOps
+- 🔭 **Proyecto actual:** Don-Keys - Una aplicación web para estudiantes que buscan donde rentar
+- 🌱 **Aprendiendo:** Redes Neuronales
 - 👯 **Colaboración:** Buscando colaborar en proyectos open source
-- 🤔 **Ayuda:** Necesito ayuda con arquitectura de microservicios
-- 💬 **Pregúntame sobre:** React, Node.js, APIs REST, y desarrollo web
-- 📫 **Contáctame:** [tu-email@gmail.com](mailto:tu-email@gmail.com)
-- ⚡ **Dato curioso:** Puedo escribir código mientras tomo café con los ojos cerrados ☕
+- ⚡ **Dato curioso:** Mi mayor hobbie es el baile
 
 ## 🏆 Logros
 
