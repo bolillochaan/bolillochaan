@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Header](header-image-name.png)
+![Header](./header-image-name.png)
 
 </div>
 
