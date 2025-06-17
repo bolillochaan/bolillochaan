@@ -90,32 +90,17 @@ const developer = {
 - ⚡ **Dato curioso:** Mi mayor hobbie es el baile
 
 
-## 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 🎨 Proyectos Destacados
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bolillochaan&repo=nombre-repo-1&theme=default&bg_color=ffffff&border_color=b4a7d6&title_color=d5a6bd&text_color=333333)](https://github.com/bolillochaan/nombre-repo-1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bolillochaan&repo=nombre-repo-2&theme=default&bg_color=ffffff&border_color=b4a7d6&title_color=d5a6bd&text_color=333333)](https://github.com/bolillochaan/nombre-repo-2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bolillochaan&repo=nombre-repo-1&theme=default&bg_color=ffffff&border_color=b4a7d6&title_color=d5a6bd&text_color=333333)](https://github.com/bolillochaan/Machine-Learning)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bolillochaan&repo=nombre-repo-2&theme=default&bg_color=ffffff&border_color=b4a7d6&title_color=d5a6bd&text_color=333333)](https://github.com/Santiago-Soria/donkeys-platform)
 
 </div>
 
-## 🌟 Quote del Día
 
-<div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border_color=b4a7d6&bg_color=ffffff&text_color=333333)
-
-</div>
-
-## 📝 Blog Posts Recientes
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 💡 Random Dev Quote
 
@@ -139,7 +124,6 @@ const developer = {
 </div>
 
 <div align="center">
-
-![Purple Pink Footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=24,25,26&height=120&section=footer&reversal=true)
+![Footer Custom](https://capsule-render.vercel.app/api?type=waving&color=0:b4a7d6,50:d5a6bd,100:b4a7d6&height=120&section=footer)
 
 </div>
