@@ -1,4 +1,4 @@
-# 🌟 ¡Hola! Soy Ivonne 
+# 🌟 ¡Hola! Soy [Tu Nombre] 
 
 <div align="center">
   
@@ -19,7 +19,8 @@ const developer = {
 };
 ```
 
-
+## 🎵 Spotify Playing
+[![Spotify](https://novatorem-bolillochaan.vercel.app/api/spotify)](https://open.spotify.com/user/tu-usuario-spotify)
 
 ## 💼 Conéctate conmigo
 
@@ -40,14 +41,21 @@ const developer = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&color=8B5CF6)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&color=A855F7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&color=9333EA)
-
+![AJAX](https://img.shields.io/badge/AJAX-0066CC?style=flat-square&logo=javascript&logoColor=white&color=7C3AED)
 
 ### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&color=8B5CF6)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=A855F7)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white&color=7C3AED)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&color=6366F1)
+### Database
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white&color=9333EA)
+
+### Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&color=8B5CF6)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&color=A855F7)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&color=9333EA)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&color=7C3AED)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6B6B?style=flat-square&logo=brain&logoColor=white&color=6366F1)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&color=8B5CF6)
