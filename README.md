@@ -34,9 +34,6 @@ const developer = {
 
 ## ☁️ Conocimientos en...
 
-
-## 🛠️ Stack Tecnológico
-
 <div align="center">
 
 ### Frontend
