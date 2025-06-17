@@ -101,18 +101,6 @@ const developer = {
 
 
 
-
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border_color=b4a7d6&bg_color=ffffff&text_color=333333)
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bolillochaan&color=blueviolet&style=flat-square&label=Profile+Views)
