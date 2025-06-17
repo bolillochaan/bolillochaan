@@ -70,15 +70,15 @@ const developer = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bolillochaan&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=b4a7d6&title_color=d5a6bd&text_color=ffffff&icon_color=b4a7d6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bolillochaan&show_icons=true&theme=default&bg_color=ffffff&border_color=b4a7d6&title_color=d5a6bd&text_color=333333&icon_color=b4a7d6"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolillochaan&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=b4a7d6&title_color=d5a6bd&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolillochaan&layout=compact&theme=default&bg_color=ffffff&border_color=b4a7d6&title_color=d5a6bd&text_color=333333"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=bolillochaan&theme=tokyonight&background=0d1117&border=b4a7d6&stroke=d5a6bd&currStreakLabel=b4a7d6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bolillochaan&theme=default&background=ffffff&border=b4a7d6&stroke=d5a6bd&currStreakLabel=b4a7d6&ring=d5a6bd&fire=b4a7d6&sideLabels=333333&sideNums=666666&dates=666666)](https://git.io/streak-stats)
 
 </div>
 
