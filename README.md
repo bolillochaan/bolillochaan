@@ -19,8 +19,7 @@ const developer = {
 };
 ```
 
-## 🎵 Spotify Playing
-[![Spotify](https://novatorem-bolillochaan.vercel.app/api/spotify)](https://open.spotify.com/user/tu-usuario-spotify)
+
 
 ## 💼 Conéctate conmigo
 
@@ -41,13 +40,10 @@ const developer = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&color=8B5CF6)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&color=A855F7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&color=9333EA)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&color=7C3AED)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D&color=6366F1)
+
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white&color=8B5CF6)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=A855F7)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&color=9333EA)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white&color=7C3AED)
