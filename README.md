@@ -32,34 +32,40 @@ const developer = {
 
 </div>
 
+## ☁️ Conocimientos en...
+
+
 ## 🛠️ Stack Tecnológico
 
 <div align="center">
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&color=8B5CF6)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&color=A855F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&color=9333EA)
-![AJAX](https://img.shields.io/badge/AJAX-0066CC?style=flat-square&logo=javascript&logoColor=white&color=7C3AED)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&color=b4a7d6)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&color=d5a6bd)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&color=b4a7d6)
+![AJAX](https://img.shields.io/badge/AJAX-0066CC?style=flat-square&logo=javascript&logoColor=white&color=d5a6bd)
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&color=b4a7d6)
 
 ### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&color=8B5CF6)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=A855F7)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&color=b4a7d6)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=d5a6bd)
 
 ### Database
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white&color=9333EA)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white&color=b4a7d6)
 
 ### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&color=8B5CF6)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&color=A855F7)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&color=9333EA)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&color=7C3AED)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6B6B?style=flat-square&logo=brain&logoColor=white&color=6366F1)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&color=b4a7d6)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&color=d5a6bd)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&color=b4a7d6)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&color=d5a6bd)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6B6B?style=flat-square&logo=brain&logoColor=white&color=b4a7d6)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&color=8B5CF6)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&color=A855F7)
-
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&color=b4a7d6)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&color=d5a6bd)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&color=9333EA)
 
 </div>
 
@@ -67,17 +73,18 @@ const developer = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bolillochaan&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=8B5CF6&title_color=A855F7&text_color=ffffff&icon_color=9333EA"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bolillochaan&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=b4a7d6&title_color=d5a6bd&text_color=ffffff&icon_color=b4a7d6"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolillochaan&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=8B5CF6&title_color=A855F7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolillochaan&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=b4a7d6&title_color=d5a6bd&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=bolillochaan&theme=tokyonight&background=0d1117&border=8B5CF6&stroke=A855F7&currStreakLabel=9333EA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bolillochaan&theme=tokyonight&background=0d1117&border=b4a7d6&stroke=d5a6bd&currStreakLabel=b4a7d6)](https://git.io/streak-stats)
 
 </div>
+
 
 ## 🎯 En lo que estoy trabajando
 
