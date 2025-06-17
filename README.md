@@ -94,7 +94,7 @@ const developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bolillochaan&theme=darkhub&column=7&margin-w=15&margin-h=15&color=8B5CF6&border_color=A855F7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bolillochaan&theme=flat&column=7&margin-w=15&margin-h=15&color=b4a7d6&border_color=d5a6bd&bg_color=ffffff)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -107,8 +107,8 @@ const developer = {
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bolillochaan&repo=nombre-repo-1&theme=tokyonight&bg_color=0d1117&border_color=8B5CF6&title_color=A855F7&text_color=ffffff)](https://github.com/bolillochaan/nombre-repo-1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bolillochaan&repo=nombre-repo-2&theme=tokyonight&bg_color=0d1117&border_color=8B5CF6&title_color=A855F7&text_color=ffffff)](https://github.com/bolillochaan/nombre-repo-2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bolillochaan&repo=nombre-repo-1&theme=default&bg_color=ffffff&border_color=b4a7d6&title_color=d5a6bd&text_color=333333)](https://github.com/bolillochaan/nombre-repo-1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bolillochaan&repo=nombre-repo-2&theme=default&bg_color=ffffff&border_color=b4a7d6&title_color=d5a6bd&text_color=333333)](https://github.com/bolillochaan/nombre-repo-2)
 
 </div>
 
@@ -116,7 +116,7 @@ const developer = {
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border_color=8B5CF6&bg_color=0d1117&text_color=A855F7)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border_color=b4a7d6&bg_color=ffffff&text_color=333333)
 
 </div>
 
@@ -129,7 +129,7 @@ const developer = {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical&border_color=8B5CF6&bg_color=0d1117)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border_color=b4a7d6&bg_color=ffffff&text_color=333333)
 
 </div>
 
@@ -148,6 +148,6 @@ const developer = {
 
 <div align="center">
 
-![Purple Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer)
+![Purple Pink Footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=24,25,26&height=120&section=footer&reversal=true)
 
 </div>
