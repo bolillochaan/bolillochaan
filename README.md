@@ -11,17 +11,16 @@
 
 ```typescript
 const developer = {
-    name: "Tu Nombre",
-    role: "Full Stack Developer",
-    location: "Ciudad, País",
+    name: "Ivonne Mendez Cruz",
+    college: "ESCOM, IPN",
+    location: "CDMX",
     passions: ["Coding", "Music", "Gaming", "Coffee"],
-    currentFocus: "Aprendiendo nuevas tecnologías",
-    funFact: "Escribo mejor código cuando escucho música 🎵"
+    currentFocus: "Aprendiendo redes neuronales ",
+    funFact: "El diseño UX y la IA son mis pasiones 🎵"
 };
 ```
 
-## 🎵 Spotify Playing
-[![Spotify](https://novatorem-bolillochaan.vercel.app/api/spotify)](https://open.spotify.com/user/tu-usuario-spotify)
+
 
 ## 💼 Conéctate conmigo
 
