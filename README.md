@@ -1,8 +1,8 @@
-# 🌟 ¡Hola! Soy Ivonne 
+# 🌟 ¡Bienvenido, yo soy
 
 <div align="center">
   
-![Purple Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![Header](header-image-name.png)
 
 </div>
 
