@@ -63,8 +63,15 @@
 
 
 ## 💖 Mis Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bolillochaan&show_icons=true&theme=rose_pine&title_color=d5a6bd&icon_color=f4cccc&text_color=ffcad4&bg_color=ffffff" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?bolillochaan&layout=compact&theme=rose_pine&title_color=d5a6bd&text_color=ffcad4&bg_color=ffffff" /> </p>
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bolillochaan&show_icons=true&theme=default&bg_color=ffffff&border_color=b4a7d6&title_color=d5a6bd&text_color=333333&icon_color=b4a7d6"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolillochaan&layout=compact&theme=default&bg_color=ffffff&border_color=b4a7d6&title_color=d5a6bd&text_color=333333"/>
+
+</div>
+
 
 
 ## ✨ En lo que estoy trabajando
