@@ -7,18 +7,13 @@
 
 </div>
 
-## 🚀 Sobre mí
+### 🧚‍♀️ Sobre mí
 
-```typescript
-const developer = {
-    name: "Ivonne Mendez Cruz",
-    college: "ESCOM, IPN",
-    location: "CDMX",
-    passions: ["Coding", "Music", "Gaming", "Dance"],
-    currentFocus: "Aprendiendo redes neuronales ",
-    funFact: "El diseño UX y la IA son mis pasiones 🎵"
-};
-```
+```bash
+🎀 Afinidad: HTML, CSS, JS, PHP, MySQL, Python
+📍 Región: [Tu Ciudad o País]  
+🧁 Compañero Pokémon: Sylveon  
+🎮 PC Box: Git · SweetAlert2  
 
 
 
@@ -106,11 +101,12 @@ const developer = {
 ![Profile Views](https://komarev.com/ghpvc/?username=bolillochaan&color=blueviolet&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/bolillochaan?style=flat-square&color=8B5CF6&labelColor=0d1117)
 
-**¡Gracias por visitar mi perfil! 🚀**
-
-*"El código es poesía en movimiento"* ✨
 
 </div>
+
+<p align="center">
+![Sylveon wink](https://media.tenor.com/images/…/sylveon-wink.gif)
+</p> <p align="center"> 💖 Gracias por visitar mi perfil ~ ¡Que la ternura y el código te acompañen! 💖 </p> ```
 
 <div align="center">
   
