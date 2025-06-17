@@ -26,10 +26,9 @@ const developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8B5CF6)](https://linkedin.com/in/tu-usuario)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&color=A855F7)](https://open.spotify.com/user/tu-usuario-spotify)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=9333EA)](mailto:tu-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=7C3AED)](https://tu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=b4a7d6)](https://www.linkedin.com/in/ivonne-mendez-cruz-645b9222b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&color=e5c4d5)](https://open.spotify.com/user/22dum4e5oyzjejdn2u3akw7xy?si=2e73f1de296749e9)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=bcb1d5)](mailto:ivonne_cruz_22@hotmail.com)
 
 </div>
 
