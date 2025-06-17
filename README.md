@@ -1,7 +1,6 @@
-# 🌟 ¡Bienvenido, yo soy
 
 <div align="center">
-  
+  # 🌸 ¡Hola! , yo soy...
 ![Header](./github-header-image.png)
 
 </div>
